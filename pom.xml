@@ -13,7 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>23-SB-Web-App-Forms</name>
-	<description>Demo project for Spring Boot testing automated build</description>
+	<description>Demo project for Spring Boot testing automated build testing</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
